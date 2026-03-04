@@ -1,13 +1,10 @@
 # 🎫 Tickets Management API
 
-![Python](https://img.shields.io/badge/python-3.12-blue.svg)
-
 ![CI](https://github.com/chkechad/tickets_management_rag/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![License](https://img.shields.io/github/license/chkechad/tickets_management_rag)
 ![Last Commit](https://img.shields.io/github/last-commit/chkechad/tickets_management_rag)
 ![Coverage](https://codecov.io/gh/chkechad/tickets_management_rag/branch/main/graph/badge.svg)
-![Last Commit](https://img.shields.io/github/last-commit/chkechad/tickets_management_rag)
 
 A REST ticket management API built with FastAPI, SQLAlchemy, and SQLite.
 
@@ -23,18 +20,18 @@ A REST ticket management API built with FastAPI, SQLAlchemy, and SQLite.
 
 ## 🛠️ Stack
 
-| Tool                | Usage                |
-|---------------------|----------------------|
-| 🐍 Python 3.12      | Language             |
-| ⚡ FastAPI           | Web framework        |
-| 🪶 SQLite           | Database             |
-| ✅ Pydantic          | Validation           |
-| 🧪 Pytest + AnyIO   | Testing              |
-| 🔍 Ruff             | Linting & formatting |
-| 🔎 Mypy             | Static typing        |
-| 📦 uv               | Dependency manager   |
-| 🪝 pre-commit hook  | Pre-commit           |
-| 🐳 Docker           | Containerization     |
+| Tool               | Usage                |
+|--------------------|----------------------|
+| 🐍 Python 3.12     | Language             |
+| ⚡ FastAPI          | Web framework        |
+| 🪶 SQLite          | Database             |
+| ✅ Pydantic         | Validation           |
+| 🧪 Pytest + AnyIO  | Testing              |
+| 🔍 Ruff            | Linting & formatting |
+| 🔎 Mypy            | Static typing        |
+| 📦 uv              | Dependency manager   |
+| 🪝 pre-commit hook | Pre-commit           |
+| 🐳 Docker          | Containerization     |
 
 ## 📁 Structure du projet
 
